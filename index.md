@@ -18,7 +18,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 ![Image](ScreenShot2020-04-20at1.56.31pm.png)
 
 
-![Image](ScreenShot2020-04-20at1.58.29.png)
+![Image](ScreenShot2020-04-20at1.58.29pm.png)
 
 This project is related to mine because *insert reasons here*.
 
