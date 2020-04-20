@@ -38,7 +38,14 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](IMG_5449.JPG)
 
+![Image](IMG_4691.JPG)
+
+These two images show examples of how the yoga mat would look and how it'd be used. The white tapped crosses show where the sensors would be placed underneath the yoga mat. 
+
 ![Image](missingimage.png)
+
+![Image](missingimage.png)
+
 
 ### Design concept 2 ###
 *Put details here.*
