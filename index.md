@@ -15,7 +15,10 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 *https://create.arduino.cc/projecthub/mixpose/pushup-counter-e3ed69?ref=search&ref_id=fitness&offset=3*
 
-![Image](missingimage.png)
+![Image](ScreenShot2020-04-20at1.56.31pm.png)
+
+
+![Image](ScreenShot2020-04-20at1.58.29.png)
 
 This project is related to mine because *insert reasons here*.
 
