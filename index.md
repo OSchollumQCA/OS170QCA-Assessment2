@@ -45,7 +45,16 @@ This project is related to mine because *insert reasons here*.
 
 *https://create.arduino.cc/projecthub/sayinath/fitness-tracker-using-pov-display-ee49e7?ref=search&ref_id=fitness&offset=0*
 
-![Image](ScreenShot2020-04-20at2.29.49pm.png)
+![Image](ScreenShot2020-04-20at2.36.17pm)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Get Notified by Email and SMS When Your Pulse Is Abnormal*
+
+*https://create.arduino.cc/projecthub/aghoshbprasad100/get-notified-by-email-and-sms-when-your-pulse-is-abnormal-737cf5?ref=search&ref_id=fitness&offset=5*
+
+![Image]()
 
 This project is related to mine because *insert reasons here*.
 
