@@ -36,6 +36,9 @@ This project is related to mine because *insert reasons here*.
 
 *For example, the mat will indicate to the user to complete a 30sec plank. When the user completes this task, the mat will continue into the next. The longer you continue completing all the challenges the better your overall workout will be.*
 
+![Image](IMG_5449.JPG)
+
+![Image](missingimage.png)
 
 ### Design concept 2 ###
 *Put details here.*
