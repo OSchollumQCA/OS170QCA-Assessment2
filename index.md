@@ -63,7 +63,7 @@ This project is related to mine because *insert reasons here*.
 
 *https://create.arduino.cc/projecthub/peter-gullberg2/hamster-fitness-tracker-056d71?ref=search&ref_id=fitness&offset=1*
 
-![Image](ScreenShot2020-04-20at2.29.49pm.png)
+![Image](ScreenShot2020-04-20at2.46.35pm.png)
 
 This project is related to mine because *insert reasons here*.
 
