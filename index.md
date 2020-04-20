@@ -36,7 +36,16 @@ This project is related to mine because *insert reasons here*.
 
 *https://create.arduino.cc/projecthub/359/gitfit-9f14a3?ref=search&ref_id=fitness&offset=4*
 
-![Image]()
+![Image](ScreenShot2020-04-20at2.29.49pm.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 4 ###
+*Fitness Tracker Using POV Display*
+
+*https://create.arduino.cc/projecthub/sayinath/fitness-tracker-using-pov-display-ee49e7?ref=search&ref_id=fitness&offset=0*
+
+![Image](ScreenShot2020-04-20at2.29.49pm.png)
 
 This project is related to mine because *insert reasons here*.
 
