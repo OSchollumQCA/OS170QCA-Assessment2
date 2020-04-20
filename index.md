@@ -27,7 +27,16 @@ This project is related to mine because *insert reasons here*.
 
 *https://create.arduino.cc/projecthub/anas2/smart-kickboxing-pad-2db483?ref=search&ref_id=fitness&offset=2*
 
-![Image](missingimage.png)
+![Image](ScreenShot2020-04-20at2.06.08pm.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 3 ###
+*GitFit*
+
+*https://create.arduino.cc/projecthub/359/gitfit-9f14a3?ref=search&ref_id=fitness&offset=4*
+
+![Image]()
 
 This project is related to mine because *insert reasons here*.
 
