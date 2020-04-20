@@ -44,7 +44,7 @@ These two images show examples of how the yoga mat would look and how it'd be us
 
 ![Image](IMG_1352.JPG)
 
-![Image](IMG_1354>JPG)
+![Image](IMG_1354.JPG)
 
 The images above shows my thought process and sketches of how I wanted the mat to look. 
 
