@@ -11,9 +11,9 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Pushup Counter*
 
-*Insert URL to project*
+*https://create.arduino.cc/projecthub/mixpose/pushup-counter-e3ed69?ref=search&ref_id=fitness&offset=3*
 
 ![Image](missingimage.png)
 
@@ -49,7 +49,11 @@ These two images show examples of how the yoga mat would look and how it'd be us
 The images above shows my thought process and sketches of how I wanted the mat to look. 
 
 ### Design concept 2 ###
-*Put details here.*
+*My second concept was based around the use of a rugby ball. Something I thought would be useful for training purposes would be to create a rugby ball that measures the height, distance and velocity of the ball. This idea could be extremely useful for training purposes, whilst also keeping it entertaining. In order for this to work, I would need to come up with a way to connect the mirco bit to the rugby ball whilst also making sure that wherever this is placed, needs to be somewhere the user wont kick. *
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
