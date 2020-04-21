@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Insert a name for the project as you conceive of it at the moment.*
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 *Pushup Counter*
@@ -79,12 +78,7 @@ Overall this project is extremely user friendly and simple to use. You can see t
 
 ![Image](ScreenShot2020-04-21at12.01.37pm.png)
 
-
-
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://create.arduino.cc/projecthub/wickPro/personal-gym-timer-f554b4?ref=search&ref_id=workout&offset=0
 
 ## Conceptual progress ##
 
@@ -92,9 +86,9 @@ Overall this project is extremely user friendly and simple to use. You can see t
 *Include your design intent here. It should be about a 10 word phrase/sentence.*
 
 ### Design concept 1 ###
-*The concept for this design was to create a yoga mat into an at home workout tool. The idea is to create a bop it experience when working out. Sensor will be attached to the bottom of the yoga mat to send signals to the mirco bit that the particualr exercise is completed, therefore another exercise will be called out and the user will complete the next.*
+The concept for this design was to create a yoga mat into an at home workout tool. The idea is to create a bop it experience when working out. Sensor will be attached to the bottom of the yoga mat to send signals to the mirco bit that the particualr exercise is completed, therefore another exercise will be called out and the user will complete the next.
 
-*For example, the mat will indicate to the user to complete a 30sec plank. When the user completes this task, the mat will continue into the next. The longer you continue completing all the challenges the better your overall workout will be.*
+For example, the mat will indicate to the user to complete a 30sec plank. When the user completes this task, the mat will continue into the next. The longer you continue completing all the challenges the better your overall workout will be.
 
 ![Image](IMG_5449.JPG)
 
@@ -109,7 +103,7 @@ These two images show examples of how the yoga mat would look and how it'd be us
 The images above shows my thought process and sketches of how I wanted the mat to look. 
 
 ### Design concept 2 ###
-*My second concept was based around the use of a rugby ball. Something I thought would be useful for training purposes would be to create a rugby ball that measures the height, distance and velocity of the ball. This idea could be extremely useful for training purposes, whilst also keeping it entertaining. In order for this to work, I would need to come up with a way to connect the mirco bit to the rugby ball whilst also making sure that wherever this is placed, needs to be somewhere the user wont kick. *
+My second concept was based around the use of a rugby ball. Something I thought would be useful for training purposes would be to create a rugby ball that measures the height, distance and velocity of the ball. This idea could be extremely useful for training purposes, whilst also keeping it entertaining. In order for this to work, I would need to come up with a way to connect the mirco bit to the rugby ball whilst also making sure that wherever this is placed, needs to be somewhere the user wont kick.
 
 ![Image](missingimage.png)
 
