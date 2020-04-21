@@ -75,7 +75,7 @@ I gathered information about how the project was made and how it works. When the
 
 Overall this project is extremely user friendly and simple to use. You can see the creater has thought about how the Timer would work for people who are visually impaired or have hearing difficulties, because the Timer alerts the user visually and audibly. Also, having the an adjustable workout and rest time is important for the flexablity of users. Below are images of the project and link to show how it works. 
 
-![Image](missingimage.png)
+![Image](ScreenShot2020-04-21at12.01.17pm.png)
 
 ![Image](missingimage.png)
 
