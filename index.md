@@ -105,7 +105,7 @@ The images above shows my thought process and sketches of how I wanted the mat t
 ### Design concept 2 ###
 My second concept was based around the use of a rugby ball. Something I thought would be useful for training purposes would be to create a rugby ball that measures the height, distance and velocity of the ball. This idea could be extremely useful for training purposes, whilst also keeping it entertaining. In order for this to work, I would need to come up with a way to connect the mirco bit to the rugby ball whilst also making sure that wherever this is placed, needs to be somewhere the user wont kick.
 
-![Image](missingimage.png)
+![Image](IMG_3477.JPG)
 
 ![Image](missingimage.png)
 
