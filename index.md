@@ -68,7 +68,19 @@ This project is related to mine because *insert reasons here*.
 This project is related to mine because *insert reasons here*.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+
+Within my research I've come across another project called *Personal Gym Timer*. The gym timer tracks you workout rep time, rest time and number of sets and when the time elapses, it alerts ther user visually and audibly. I really liked how this project encourages you to get the maximum results whenever your at the gym. 
+
+I gathered information about how the project was made and how it works. When the timer is turned on, it operates in two basic modes, Auto mode and Set mode. This could be something i explore further to include in my own project design. When the auto mode is on, the user just needs to press the Green push button and start their workout. In this project, it will count up 60 seconds for the workout and down 30 seconds for rest time. This will then increase the number of sets (large red SSD) by one (new number of sets is 2) and count up 60 seconds then count down 30 seconds for rest. The workout time and rest time are also adjustable. 
+
+Overall this project is extremely user friendly and simple to use. You can see the creater has thought about how the Timer would work for people who are visually impaired or have hearing difficulties, because the Timer alerts the user visually and audibly. Also, having the an adjustable workout and rest time is important for the flexablity of users. Below are images of the project and link to show how it works. 
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+
+
 
 ### *Brief resource name/description* ###
 
