@@ -108,7 +108,14 @@ My second concept was based around the use of a rugby ball. Something I thought 
 ![Image](IMG_3477.JPG)
 
 ### Final design concept ###
+
 My final concept is an adaptable fitness tracker. This fitness tracker will be able to count your reps with whatever exercise you are doing. Keeping track of your reps is something many people struggle with. Being able to not worry about counting and being able to complete your workout efficiently. The tracker can be used at home or in a gym environment, even used for coaching. The meaning behind it being adaptable is the fact that it can be used for several different workouts because you can adapt it to your shoe, wrist or head. If the fitness tracker is placed on a shoe, it's to count how many steps the user has made. If you're wanting to track your arm workouts, then you can attach it anywhere on your arm. For pushups or planks you're able to attach the fitness tracker to your head. For all of these, the fitness tracker comes with adjustable straps that will allow the user to workout with it.
+
+This fitness tracker is interactive in the way the user uses it. The interaction of doing a particular workout is one of its major interactions. As well as the user being able to read how many reps they have completed. The tracker will be able to be turned off and on to save battery life. 
+
+In order to create this, I'll need a way to connect the mirco bit to a band that's adjustable for the use of different interactions. Some sought of attachable velcro could be a could choice to attach the fitness tracker to the users body. The code for this project is most important for this to be able to function in the best way. 
+
+Images below will show my sketches and rough ideas of how the fitness tracker will look. 
 
 ![Image](IMG_1055.JPG)
 
@@ -117,8 +124,6 @@ My final concept is an adaptable fitness tracker. This fitness tracker will be a
 ![Image](IMG_8878.JPG)
 
 ![Image](IMG_8120.JPG)
-
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
