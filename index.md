@@ -110,13 +110,13 @@ My second concept was based around the use of a rugby ball. Something I thought 
 ### Final design concept ###
 My final concept is an adaptable fitness tracker. This fitness tracker will be able to count your reps with whatever exercise you are doing. Keeping track of your reps is something many people struggle with. Being able to not worry about counting and being able to complete your workout efficiently. The tracker can be used at home or in a gym environment, even used for coaching. The meaning behind it being adaptable is the fact that it can be used for several different workouts because you can adapt it to your shoe, wrist or head. If the fitness tracker is placed on a shoe, it's to count how many steps the user has made. If you're wanting to track your arm workouts, then you can attach it anywhere on your arm. For pushups or planks you're able to attach the fitness tracker to your head. For all of these, the fitness tracker comes with adjustable straps that will allow the user to workout with it.
 
-![Image](missingimage.png)
+![Image](IMG_1055.JPG)
 
-![Image](missingimage.png)
+![Image](IMG_1365.JPG)
 
-![Image](missingimage.png)
+![Image](IMG_8878.JPG)
 
-![Image](missingimage.png)
+![Image](IMG_8120.JPG)
 
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
