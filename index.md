@@ -176,7 +176,8 @@ Part 4 - Developing wrist tracker:
 
 *The first image of myself holding the mircobit shows the step before lifting the weight upwards, to replicate an arm workout. Second image shows once the interaction is completed, as you can see the number has gone up because I've imitated doing an arm workout.*
 
-Part 5 - Physical Model of arm workout tracker
+Part 5 - Physical Model of arm workout tracker:
+
 
 
 
