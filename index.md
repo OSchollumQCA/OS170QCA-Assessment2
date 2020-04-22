@@ -19,7 +19,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ![Image](ScreenShot2020-04-20at1.58.29pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because of its interaction with humans. Being able to count the reps when you're working out can be a challenge. Therefore I'm wanting to make working out easier for people, by creating a similar project. The code for this project could be something i look into further. 
 
 ### Related project 2 ###
 *Smart Kickboxing Pad*
@@ -28,7 +28,7 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](ScreenShot2020-04-20at2.06.08pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because as i said above, it's around the same area that i want to explore. I enjoed looking through this project, simply to see a different way of connecting someones movement and how many reps they completed. Researching further into this will help with stimulating ideas. 
 
 ### Related project 3 ###
 *GitFit*
@@ -37,7 +37,7 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](ScreenShot2020-04-20at2.29.49pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because of the fitness aspect of it. Creating something similar to a fitbit but slightly different. The difference is that it is a reward system that capitalize on the growing wearable technology market. 
 
 ### Related project 4 ###
 *Fitness Tracker Using POV Display*
@@ -46,7 +46,7 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](ScreenShot2020-04-20at2.36.17pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because the aim of this project is to monitor the amount of calories whilst jogging, by pulse and piezo electric sensors. This is similar to the ideas I've had about using sensors to track the reps someone makes. 
 
 ### Related project 5 ###
 *Get Notified by Email and SMS When Your Pulse Is Abnormal*
@@ -55,7 +55,8 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](ScreenShot2020-04-20at2.42.26pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it's using something that already exists, but then putting a swist on it. This device is similar to heart rate monitoring fitness band, expect this device sends you an SMS or email or both if there is an abnormality detected in your heart rate. 
+
 
 ### Related project 6 ###
 *Hamster Fitness Tracker*
@@ -64,7 +65,7 @@ This project is related to mine because *insert reasons here*.
 
 ![Image](ScreenShot2020-04-20at2.46.35pm.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it's a Hamster running tracker. This is very similar to ideas I have, just for humans instead. I thought it was an interesting project, that i could gain some basic knowledge and skills from. 
 
 ## Other research ##
 
