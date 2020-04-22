@@ -164,7 +164,20 @@ Part 3 - Physical Models for footstep tracker:
 
 ![Image](IMG_3345.JPG)
 
-Part 4 - 
+Part 4 - Developing wrist tracker:
+
+![Image](ScreenShot2020-04-22at12.04.21pm.png)
+
+*As shown above, I've used the basic code that I used for the footstep tracker but instead using shake, I replaced it with on log up. For arm workouts you usually use weights which you lift up and down, therefore changing the code is very important for it to work properly.*
+
+![Image](IMG_1836.JPG)
+
+![Image](IMG_6896.JPG)
+
+*The first image of myself holding the mircobit shows the step before lifting the weight upwards, to replicate an arm workout. Second image shows once the interaction is completed, as you can see the number has gone up because I've imitated doing an arm workout.*
+
+Part 5 - Physical Model of arm workout tracker
+
 
 
 
