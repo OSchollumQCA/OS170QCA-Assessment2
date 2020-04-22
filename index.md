@@ -186,19 +186,9 @@ Part 5 - Physical Model of arm workout tracker:
 
 Part 6 - Developing push up tracker:
 
-![Image](IMG_7218.JPG)
+![Image](ScreenShot2020-04-22at1.16.26pm.png)
 
 *For this i experiemented with different inputs, changing the way of how the movement will be counted. Overall the best one would be the log up variable which is used for arm workouts as well.*
-
-
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 
 
 ## Design process discussion ##
