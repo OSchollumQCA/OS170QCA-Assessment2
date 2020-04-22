@@ -132,7 +132,7 @@ Images below will show my sketches and rough ideas of how the fitness tracker wi
 
 ## Physical experimentation documentation ##
 
-*Technical Development*
+*Technical Development & Fabrication*
 
 Part 1 - Developing a simple footstep tracker:
 
@@ -154,8 +154,13 @@ Part 2 - Developing a simple footstep tracker:
 
 ![Image](IMG_6324.JPG)
 
-Part 3 - Developing tracker:
+Part 3 - Physical Models:
 
+![Image](IMG_6324.JPG)
+
+![Image](IMG_6324.JPG)
+
+![Image](IMG_6324.JPG)
 
 
 
