@@ -5,7 +5,7 @@ You will use this workbook to keep track of your progress through the course and
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+Fitness Tracker
 
 ## Related projects ##
 
@@ -84,7 +84,7 @@ https://create.arduino.cc/projecthub/wickPro/personal-gym-timer-f554b4?ref=searc
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*I intend to create an easy and fun way of tracking your reps while working out.*
 
 ### Design concept 1 ###
 The concept for this design was to create a yoga mat into an at home workout tool. The idea is to create a bop it experience when working out. Sensor will be attached to the bottom of the yoga mat to send signals to the mirco bit that the particualr exercise is completed, therefore another exercise will be called out and the user will complete the next.
@@ -208,7 +208,22 @@ Part 6 - Developing push up tracker:
 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+
+My design process has been extremely effective for what I've wanted to achieve. I followed aspects of the Double Diamond design methodology as well to keep myself on track and to help myself with the process of design. Discover is one of the first aspects of the Double Diamond Design. I started this by researching into different projects, to gather information and ideas that'll help me along the way. Once i found myself looking into different projects and decided on the key theme that i was interested in, which is fitness. This then helped norrow down to six projects that all related to my ideas and concepts. 
+
+Define is another aspect of the Double Diamond Design that i have used. The second stage of my process was to come up with my own concepts after researching other peoples works. This process was exciting, because I could let my imagination run free. I did however struggle with coming up with concepts that I thought I'd be able to achieve. My first concept was an interesting one to come up with, I really enjoyed the process of development, but I just couldn't see how I'd be able to create something so big. That is why my next two concepts may be slighly more simple, because these are concepts I know I'll be able to achieve within this course. 
+
+The third aspect of the Double Diamond Design is develop. This stage of the process develops your ideas into something physical. Once I had my concepts and ideas I needed to then explore how I was actually physically make this design. I started out by creating simple code that could help with the starting point. As you can see above, I've documented my process of how I problem solved when their was an issue. Overall the code is quite simple and easy, therefore coming up with more ideas to add onto the process would help. I've now got an understanding of how to create my project, now I'll need to just add onto it. 
+
+Deliver is the last aspect of the Double Diamond design. This is the most important aspect of them all, bringing the design to life. So I've delivered basic protoypes and ways I want to design to work and look. But now it's time to create the actual thing. Some things I will do to improve my design and making it less simple would be to create a sound that makes a noise every time you've completed a rep. Possibly even have it count outloud for you, so the user would'nt even need to look at the fitness tracker. These are just a few ideas to move my design forward and making it stronger. 
+
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+In order to move my design further I'll need to:
+- Finalise my ideas to further improve my design. 
+- Gather materials I'll need to start creating. 
+- Draw detailed sketches of how I want it to look (to give reference to when building).
+- Start the build process. 
+- Make sure all documentation is ready to be assessed.
+
