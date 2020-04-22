@@ -146,6 +146,18 @@ Part 1 - Developing a simple footstep tracker:
 
 *Images above show the number of steps when the mirco bit is shaken. When I did this, I noticed a delay in the display of steps. My next step will be to fix this problem with code* 
 
+Part 2 - Developing a simple footstep tracker:
+
+![Image](ScreenShot2020-04-22at11.17.31am.png)
+
+*In order to get rid of the deplay in the display, I've used stop animation after changing the value of steps. This worked really effectively*
+
+![Image](IMG_6324.JPG)
+
+Part 3 - Developing tracker:
+
+
+
 
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
