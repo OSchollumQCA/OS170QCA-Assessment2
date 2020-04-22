@@ -144,6 +144,10 @@ Part 1 - Developing a simple footstep tracker:
 
 ![Image](IMG_7958.JPG)
 
+https://youtu.be/xpRm7SZrRWc
+
+Click link to see the process in action.
+
 *Images above show the number of steps when the mirco bit is shaken. When I did this, I noticed a delay in the display of steps. My next step will be to fix this problem with code* 
 
 Part 2 - Developing a simple footstep tracker:
@@ -154,6 +158,10 @@ Part 2 - Developing a simple footstep tracker:
 
 ![Image](IMG_6324.JPG)
 
+https://youtu.be/Vyo8XVtFUdI
+
+Click link to see the process in action.
+
 Part 3 - Physical Models for footstep tracker:
 
 *Images above show a rough physical model of how I would want my fitness tracker to look. For this I've used all the code above as well. This is just a rough idea of how I want it to look, but I'll need to find an easy way to transfering it from a step tracker to an overall fitness tracker.* 
@@ -163,6 +171,10 @@ Part 3 - Physical Models for footstep tracker:
 ![Image](IMG_9782.JPG)
 
 ![Image](IMG_3345.JPG)
+
+https://youtu.be/M9uuReAEUHc
+
+Click on the link to see it in action.
 
 Part 4 - Developing wrist tracker:
 
@@ -183,7 +195,8 @@ Part 5 - Physical Model of arm workout tracker:
 ![Image](IMG_7218.JPG)
 
 https://youtu.be/KBLnNJi10GA
-*Tap on the link to see it in action*
+
+Click on the link to see it in action
 
 *The images above show my experimentation of my arm workout tracker. The first image is before the interaction of moving the arm up and then second image of the arm upwards. As you can see from the first and second image the amount of reps has gone up by 1. The same code was used to work this aswell.*
 
