@@ -178,8 +178,17 @@ Part 4 - Developing wrist tracker:
 
 Part 5 - Physical Model of arm workout tracker:
 
+![Image](IMG_6942.JPG)
 
+![Image](IMG_7218.JPG)
 
+*The images above show my experimentation of my arm workout tracker. The first image is before the interaction of moving the arm up and then second image of the arm upwards. As you can see from the first and second image the amount of reps has gone up by 1. The same code was used to work this aswell.*
+
+Part 6 - Developing push up tracker:
+
+![Image](IMG_7218.JPG)
+
+*For this i experiemented with different inputs, changing the way of how the movement will be counted. Overall the best one would be the log up variable which is used for arm workouts as well.*
 
 
 
