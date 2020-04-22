@@ -182,6 +182,9 @@ Part 5 - Physical Model of arm workout tracker:
 
 ![Image](IMG_7218.JPG)
 
+https://youtu.be/KBLnNJi10GA
+*Tap on the link to see it in action*
+
 *The images above show my experimentation of my arm workout tracker. The first image is before the interaction of moving the arm up and then second image of the arm upwards. As you can see from the first and second image the amount of reps has gone up by 1. The same code was used to work this aswell.*
 
 Part 6 - Developing push up tracker:
