@@ -154,7 +154,9 @@ Part 2 - Developing a simple footstep tracker:
 
 ![Image](IMG_6324.JPG)
 
-Part 3 - Physical Models:
+Part 3 - Physical Models for footstep tracker:
+
+*Images above show a rough physical model of how I would want my fitness tracker to look. For this I've used all the code above as well. This is just a rough idea of how I want it to look, but I'll need to find an easy way to transfering it from a step tracker to an overall fitness tracker.* 
 
 ![Image](IMG_7335.JPG)
 
@@ -162,7 +164,7 @@ Part 3 - Physical Models:
 
 ![Image](IMG_3345.JPG)
 
-*Images above show a rough physical model of how I would want my fitness tracker to look. For this I've used all the code above as well. This is just a rough idea of how I want it to look, but I'll need to find an easy way to transfering it from a step tracker to an overall fitness tracker.*
+Part 4 - 
 
 
 
