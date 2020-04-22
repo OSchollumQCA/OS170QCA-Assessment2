@@ -132,13 +132,19 @@ Images below will show my sketches and rough ideas of how the fitness tracker wi
 
 ## Physical experimentation documentation ##
 
+*Technical Development*
+
+Part 1 - Developing a simple footstep tracker:
+
 ![Image](ScreenShot2020-04-22at10.46.57am.png)
 
+*To start with the building of code, I needed a variable to store my number of steps. And then I needed the number of steps to be triggered by something. I added on shake to detect the step. In order for to always be able to see how many steps were counted I used a forever loop and added a show number to display the value of steps.*
 
-![Image](IMG_0489.JPG)                        ![Image](IMG_7958.JPG)
-
+![Image](IMG_0489.JPG)                        
 
 ![Image](IMG_7958.JPG)
+
+*Images above show the number of steps when the mirco bit is shaken. When I did this, I noticed a delay in the display of steps. My next step will be to fix this problem with code* 
 
 
 
